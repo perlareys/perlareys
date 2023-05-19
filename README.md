@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @perlareys
-- 👀 I’m interested in HTML ans CSS
+- 👀 I’m interested in technology
 - 🌱 I’m currently learning Data Analyst and coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  perla-reyes-serrato-52b509185
